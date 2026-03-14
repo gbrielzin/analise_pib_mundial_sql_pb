@@ -20,3 +20,5 @@ Realizei o tratamento da base de dados bruta utilizando **SQL**:
 
 ---
 ![Dashboard](dashboard.jpg)
+![Query](sql1.jpg)
+![Query](sql2.jpg)
