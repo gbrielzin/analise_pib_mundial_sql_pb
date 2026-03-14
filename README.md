@@ -19,4 +19,4 @@ Realizei o tratamento da base de dados bruta utilizando **SQL**:
 `PostgreSQL` | `Power BI` | `DAX` | `ETL`
 
 ---
-![Dashboard](img/seu-print-do-powerbi.png)
+![Dashboard](dashboard.jpg)
